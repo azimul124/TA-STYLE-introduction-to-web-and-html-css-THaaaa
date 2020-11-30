@@ -1,0 +1,45 @@
+h1 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+img {
+  text-align: center;
+}
+address {
+  text-align: center;
+  color: white;
+}
+h2 {
+  color: rgb(45, 218, 45);
+}
+p {
+  color: white;
+  font-size: 18px;
+}
+h6 {
+  color: rgb(31, 241, 31);
+  font-size: 25px;
+}
+h3 {
+  color: whitesmoke;
+  font-size: 14px;
+}
+h4 {
+  color: whitesmoke;
+  font-size: 14px;
+}
+h5 {
+  color: whitesmoke;
+  font-size: 14px;
+}
+a {
+  color: red !important;
+  margin-right: 10px;
+}
+div {
+  text-align: center;
+}
+body {
+  background-color: rgba(11, 11, 163, 0.74);
+}
